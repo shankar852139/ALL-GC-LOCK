@@ -32,7 +32,7 @@
         ""
     ],
     "NAME": "SHANKAR BOT",
-    "PREFIX": " ",
+    "PREFIX": "#",
     "timezone": "Asia/Kolkata",
     "REFRESH": "43200000",
     "DEVICE_ID": "",
